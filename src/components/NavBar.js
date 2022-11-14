@@ -49,11 +49,6 @@ const NavBar = () => {
         </div>
     </div>
 
-    
-
-    
-
-
 
 
     <div className="navbar-end flex-none mr-2 w-1/5">
