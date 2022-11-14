@@ -8,7 +8,7 @@ function App() {
     <>
 
       <NavBar/>
-      <ItemListContainer greeting="Bienvenido a Sneakers, un proyecto de FrontendMentor"/>
+      <ItemListContainer greeting="Bienvenido a Sneakers, un proyecto de FrontendMentor"   />
 
     </>
   );
