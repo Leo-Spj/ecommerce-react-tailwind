@@ -9,7 +9,7 @@ module.exports = {
     extend: {
 
       maxWidth: {
-        'tope': '850px',
+        'tope': '1250px',
       }
 
     },
